@@ -13,9 +13,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Há mais de um ano, venho me desenvolvendo como desenvolvedor front-end autodidata no amplo universo do desenvolvimento mobile e web.
+  - 💬 Há mais de um ano, venho me desenvolvendo como dev front-end autodidata no amplo universo do desenvolvimento mobile e web.
   
-  - 🧠 Por que não aprender back-end para me tornar um desenvolvedor full stack em breve? Já estou em busca disso. 🧠
+  - 🧠 Por que não aprender back-end para me tornar um desenvolvedor full stack em breve? Já estou em busca disso. 
     
   - 💼 **Aprendendo:** Codificação, comunicação, mas também a ouvir, ter paciência e calma. Tornando-me a melhor versão de mim mesmo.
     
